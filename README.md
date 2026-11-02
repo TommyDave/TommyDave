@@ -55,12 +55,11 @@ I enjoy building modern, responsive, and user-friendly websites that help busine
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TommyDave&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TommyDave&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TommyDave&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TommyDave&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 ---
 
