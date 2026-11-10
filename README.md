@@ -1,4 +1,4 @@
-# 👋 Hey, I'm JOHN JOE!
+# 👋 Hey, I'm JOHNSON JOHN!
 
 ### 💻 Website Developer & Designer | Creative Thinker | Digital Builder
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm JOHN JOE, a Website Developer and Designer from Nigeria 🇳🇬.
+I'm JOHNSON JOHN, a Website Developer and Designer from Nigeria 🇳🇬.
 
 I enjoy building modern, responsive, and user-friendly websites that help businesses and brands grow online.
 
@@ -71,7 +71,7 @@ I enjoy building modern, responsive, and user-friendly websites that help busine
   </a>
 </p>
 
-📩 **Email:** bhackjoe@gmail.com
+📩 **Email:** johnwebstudio2@gmail.com
 
 ---
 
