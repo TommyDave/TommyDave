@@ -49,7 +49,7 @@ I enjoy building modern, responsive, and user-friendly websites that help busine
 - 👯 I'm looking to collaborate on creative website development projects and open-source contributions.
 - 🤔 I'm looking for help with improving my coding skills, writing cleaner code, and learning new technologies.
 - 💬 Ask me about website development, responsive design, website design, and frontend development.
-- 📫 How to reach me: bhackjoe@gmail.com
+- 📫 How to reach me: johnwebstudio2@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy turning simple ideas into beautiful and functional websites!
 
